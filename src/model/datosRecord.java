@@ -1,3 +1,7 @@
+package model;
+
+import api.recordConversor;
+
 public class datosRecord {
     private String codigoEntrante;
     private String codigoSaliente;
